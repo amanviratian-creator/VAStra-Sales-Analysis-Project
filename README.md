@@ -199,12 +199,6 @@ VAStra-Sales-Analysis-Project/
 
 ![Dashboard Preview]({F14238DF-7B8F-4894-B5F9-3F3993135186}.png)
 
-Example:
-
-```text
-Images/dashboard.png
-```
-
 ---
 
 ## 📈 Project Outcomes
