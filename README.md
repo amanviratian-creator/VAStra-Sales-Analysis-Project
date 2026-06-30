@@ -197,7 +197,7 @@ VAStra-Sales-Analysis-Project/
 
 ## 📷 Dashboard Preview
 
-[![Dashboard Preview[({F14238DF-7B8F-4894-B5F9-3F3993135186}.png)]
+[![Dashboard Preview]({F14238DF-7B8F-4894-B5F9-3F3993135186}.png)]
 
 Example:
 
